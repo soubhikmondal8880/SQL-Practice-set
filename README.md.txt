@@ -1,14 +1,14 @@
 # SQL Practice Set 🚀
 
-A structured collection of SQL practice queries created while learning and strengthening Data Analyst and Database Management concepts.
+A professional collection of SQL practice queries designed to strengthen database management and Data Analyst skills using MySQL.
 
-This repository demonstrates hands-on practice with SQL fundamentals, data manipulation, aggregation functions, filtering, sorting, and grouping operations using MySQL.
+This repository contains hands-on SQL exercises covering data retrieval, aggregation, filtering, sorting, updating, deleting, and grouping operations.
 
 ---
 
 ## 📌 Topics Covered
 
-### Database & Table Operations
+### Database Operations
 - CREATE DATABASE
 - CREATE TABLE
 
@@ -29,16 +29,16 @@ This repository demonstrates hands-on practice with SQL fundamentals, data manip
 - MAX()
 - MIN()
 
-### Grouping & Filtering
+### Grouping
 - GROUP BY
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Technologies Used
 
 - MySQL
 - MySQL Workbench
-- Git & GitHub
+- GitHub
 
 ---
 
@@ -52,7 +52,7 @@ SQL-Practice-set/
 │   └── practice_queries.sql
 │
 ├── output screenshots/
-│   ├── query_outputs.png
-│   └── groupby_results.png
+│   ├── sql_output1.png
+│   └── groupby_output.png
 │
 └── README.md
